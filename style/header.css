@@ -6,7 +6,7 @@
 }
 
 .header{
-    background-color: var(--primary-color) ;
+    background-color: #e0e0e0 ;
     padding: 2.5rem 0;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .tab-nav-list{
-    color: var(--backgrounds);
+    color: #000000;
     text-decoration: none;
     font-size: 1.25rem;
 }
